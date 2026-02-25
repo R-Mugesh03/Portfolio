@@ -1,0 +1,4 @@
+project_id = "wyqmuefaazhbygopyamj"
+
+[functions.ai-twin]
+verify_jwt = false
